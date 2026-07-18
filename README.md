@@ -8,9 +8,9 @@ Alpha Sage is a modular financial-analysis system built around four complementar
 
 [![Alpha Sage financial-analysis architecture](assets/financial-analysis-flow.png)](assets/financial-analysis-flow.html)
 
-**[Open the interactive architecture diagram](assets/financial-analysis-flow.html)**
+**[View or download the standalone HTML architecture file](assets/financial-analysis-flow.html)**
 
-The diagram illustrates the complete process from evidence inputs through monitoring and feedback. Click the image or the link above to open the standalone interactive HTML version.
+The PNG is rendered directly in this README. GitHub displays committed HTML as source; download `assets/financial-analysis-flow.html` and open it in a browser for the full standalone view.
 
 ## Component Repositories
 
